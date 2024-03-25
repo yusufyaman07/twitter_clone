@@ -24,6 +24,7 @@ Twitter Clone is a social media application developed using the Firebase infrast
 - React-icons
 - Moment
 - UIverse (for Dropdown)
+- React-Router-Dom
 
 # Live Version Of The Project
 - https://twitter-clone-firebase00.netlify.app
